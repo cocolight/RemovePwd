@@ -8,7 +8,7 @@
 
 将文件/文件夹拖入窗口虚线框位置，点击开始处理
 
-![](E:\BaiduSyncdisk\vsc\removepwd\1.png)
+![](./1.png)
 
 ## 1.2、更新计划
 
